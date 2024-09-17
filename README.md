@@ -1,6 +1,6 @@
 # SSH Honeypot
 
-This Python script is an SSH honeypot designed to log authentication attempts (username and password combinations) made by clients trying to connect to the server. The project is implemented using Python 2.7 and the `paramiko` library to handle SSH connections.
+This Python script is an SSH honeypot designed to log authentication attempts (username and password combinations) made by clients trying to connect to the server. The project is implemented using Python and the `paramiko` library to handle SSH connections.
 
 ## Features
 - Listens on port `2222` for incoming SSH connections.
@@ -9,7 +9,7 @@ This Python script is an SSH honeypot designed to log authentication attempts (u
 - Handles multiple client connections using threading.
 
 ## Requirements
-- Python 2.7
+- Python
 - `paramiko` library
 
 ### Install Dependencies
