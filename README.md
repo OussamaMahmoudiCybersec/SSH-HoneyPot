@@ -35,7 +35,7 @@ This will generate a `server.key` file which the honeypot will use for SSH conne
 3. Run the script:
 
 ```bash
-python2.7 honeypot.py
+python main.py
 ```
 
 The server will start listening on port `2222` for incoming SSH connections. All login attempts will be logged in the `logins.txt` file.
