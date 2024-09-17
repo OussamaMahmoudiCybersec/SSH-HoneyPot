@@ -1,4 +1,3 @@
-```markdown
 # SSH Honeypot
 
 This Python script is an SSH honeypot designed to log authentication attempts (username and password combinations) made by clients trying to connect to the server. The project is implemented using Python 2.7 and the `paramiko` library to handle SSH connections.
