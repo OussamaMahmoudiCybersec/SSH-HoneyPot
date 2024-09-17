@@ -46,7 +46,3 @@ The server will start listening on port `2222` for incoming SSH connections. All
 
 ## Warning
 This honeypot is intended for **educational purposes only**. Ensure you use it responsibly and in environments where you have permission to monitor traffic.
-
-## License
-This project is licensed under the MIT License.
-```
